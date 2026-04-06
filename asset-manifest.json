@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kairos-store/static/css/main.e6c13ad2.css",
+    "main.js": "/kairos-store/static/js/main.6d67939d.js",
+    "static/js/453.cf0d49ef.chunk.js": "/kairos-store/static/js/453.cf0d49ef.chunk.js",
+    "static/media/logo.png": "/kairos-store/static/media/logo.14a8bf9e7f17ee88c7a7.png",
+    "static/media/leotard3.jpg": "/kairos-store/static/media/leotard3.9aa1b14b70d462059bc9.jpg",
+    "static/media/fire.jpg": "/kairos-store/static/media/fire.2fa1a46666ca25bc0cf1.jpg",
+    "static/media/mantle.jpg": "/kairos-store/static/media/mantle.7af5c842570b02e85173.jpg",
+    "static/media/esther.jpg": "/kairos-store/static/media/esther.fcebdbef593ff52580a0.jpg",
+    "static/media/glory.jpg": "/kairos-store/static/media/glory.128652e02819dc97b6ff.jpg",
+    "static/media/shoes3.jpg": "/kairos-store/static/media/shoes3.654ba4658748a15db942.jpg",
+    "static/media/leotard1.jpg": "/kairos-store/static/media/leotard1.40b7525eebd4b7e67f38.jpg",
+    "static/media/leotard2.jpg": "/kairos-store/static/media/leotard2.37588001bfbc0322a6dc.jpg",
+    "static/media/shoes2.jpg": "/kairos-store/static/media/shoes2.93a99eda32927b5c7c2c.jpg",
+    "static/media/duffle3.jpg": "/kairos-store/static/media/duffle3.a339f2d9968d2aa7cbba.jpg",
+    "static/media/duffle1.jpg": "/kairos-store/static/media/duffle1.ce7e3d8abd338511479c.jpg",
+    "static/media/duffle2.jpg": "/kairos-store/static/media/duffle2.e2d7c2da50e1360c7fb1.jpg",
+    "static/media/shoes1.jpg": "/kairos-store/static/media/shoes1.71445c6cf6ab4057efc9.jpg",
+    "index.html": "/kairos-store/index.html",
+    "main.e6c13ad2.css.map": "/kairos-store/static/css/main.e6c13ad2.css.map",
+    "main.6d67939d.js.map": "/kairos-store/static/js/main.6d67939d.js.map",
+    "453.cf0d49ef.chunk.js.map": "/kairos-store/static/js/453.cf0d49ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d67939d.js"
+  ]
+}
