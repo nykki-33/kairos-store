@@ -149,6 +149,15 @@ function Navbar({ cartCount }) {
           <p style={styles.brandSub}>Luxury worship wear with meaning and movement</p>
         </div>
       </div>
+    <div style={{ textAlign: "center", marginTop: "20px" }}>
+  <button onClick={() => window.location.hash = "#login"}>Login</button>
+  <button onClick={() => window.location.hash = "#register"}>Register</button>
+  <button onClick={() => window.location.hash = "#terms"}>Terms</button>
+</div>
+
+{window.location.hash === "#login" && <Login />}
+{window.location.hash === "#register" && <Register />}
+{window.location.hash === "#terms" && <Terms />}
 
       <nav style={styles.nav}>
         <a href="#home" style={styles.link}>Home</a>
