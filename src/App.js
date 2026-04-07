@@ -1,3 +1,6 @@
+import Login from "./Login";
+import Register from "./Register";
+import Terms from "./Terms";
 import React, { useMemo, useState } from "react";
 import logo from "./images/logo.png";
 import fire from "./images/fire.jpg";
